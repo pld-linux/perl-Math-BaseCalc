@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define		pdir	Math
-%define		pnam	BaseCalc
+%define	pdir	Math
+%define	pnam	BaseCalc
 Summary:	Math::BaseCalc Perl module - convert numbers between various bases
 Summary(pl):	Modu³ Perla Math::BaseCalc - konwersja liczb pomiêdzy systemami o ró¿nych podstawach
 Name:		perl-Math-BaseCalc
