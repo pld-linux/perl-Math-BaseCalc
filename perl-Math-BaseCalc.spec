@@ -6,7 +6,7 @@
 %define		pdir	Math
 %define		pnam	BaseCalc
 Summary:	Math::BaseCalc Perl module - convert numbers between various bases
-Summary(pl):	Modu³ Perla Math::BaseCalc - konwersja liczb pomiêdzy systemami o ró¿nych podstawach
+Summary(pl.UTF-8):   ModuÅ‚ Perla Math::BaseCalc - konwersja liczb pomiÄ™dzy systemami o rÃ³Å¼nych podstawach
 Name:		perl-Math-BaseCalc
 Version:	1.011
 Release:	2
@@ -25,9 +25,9 @@ This module facilitates the conversion of numbers between various
 number bases. You may define your own digit sets, or use any of
 several predefined digit sets.
 
-%description -l pl
-Ten modu³ u³atwia przeliczanie liczb pomiêdzy ró¿nymi systemami. Mo¿na
-zdefiniowaæ w³asne zestawy cyfr lub u¿yæ dowolnego z kilku
+%description -l pl.UTF-8
+Ten moduÅ‚ uÅ‚atwia przeliczanie liczb pomiÄ™dzy rÃ³Å¼nymi systemami. MoÅ¼na
+zdefiniowaÄ‡ wÅ‚asne zestawy cyfr lub uÅ¼yÄ‡ dowolnego z kilku
 predefiniowanych.
 
 %prep
