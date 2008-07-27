@@ -9,7 +9,7 @@ Summary:	Math::BaseCalc Perl module - convert numbers between various bases
 Summary(pl.UTF-8):	Moduł Perla Math::BaseCalc - konwersja liczb pomiędzy systemami o różnych podstawach
 Name:		perl-Math-BaseCalc
 Version:	1.011
-Release:	2
+Release:	3
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
