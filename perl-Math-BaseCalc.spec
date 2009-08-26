@@ -8,13 +8,13 @@
 Summary:	Math::BaseCalc Perl module - convert numbers between various bases
 Summary(pl.UTF-8):	Moduł Perla Math::BaseCalc - konwersja liczb pomiędzy systemami o różnych podstawach
 Name:		perl-Math-BaseCalc
-Version:	1.011
-Release:	3
+Version:	1.013
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	0e539a438ff8717f22ab83f9dd113686
+# Source0-md5:	4af5782210388314ecb7d1a89e9885b7
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
