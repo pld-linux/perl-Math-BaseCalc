@@ -4,7 +4,6 @@
 
 %define		pdir	Math
 %define		pnam	BaseCalc
-%include	/usr/lib/rpm/macros.perl
 Summary:	Math::BaseCalc Perl module - convert numbers between various bases
 Summary(pl.UTF-8):	Moduł Perla Math::BaseCalc - konwersja liczb pomiędzy systemami o różnych podstawach
 Name:		perl-Math-BaseCalc
